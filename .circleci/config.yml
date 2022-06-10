@@ -1,8 +1,9 @@
 ---
 # This code is licensed from CircleCI to the user under the MIT license.
 # See here for details: https://circleci.com/developer/orbs/licensing
+# See here for details: https://circleci.com/developer/orbs/licensing ss
 version: 2.1
-description: Fortune Teller
+description: Fortune Teller 2
 
 executors:
   default:
